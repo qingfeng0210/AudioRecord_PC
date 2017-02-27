@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioRecord</string>
+    <string name="record_wav">record wav</string>
+    <string name="record_amr">record amr</string>
+    <string name="stop">stop record</string>
+    <string name="error_no_sdcard">没有SD卡，无法存储录音数据</string>
+    <string name="error_state_record">正在录音中，请先停止录音</string>
+    <string name="error_unknown">无法识别的错误</string>
+    <string name="ntpSync">时钟同步</string>
+</resources>
